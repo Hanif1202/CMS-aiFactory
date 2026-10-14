@@ -1,0 +1,70 @@
+npi,provider_name,state_code,report_month,claim_category,claim_count,total_billed_amount,total_allowed_amount,total_patient_responsibility,total_provider_paid_amount,payment_rate,avg_days_to_receive
+1043685291,Metro Heart and Vascular Institute,NY,2025-01,Inpatient,1,15116.71,9785.4,0.0,9785.4,0.6473,360.0
+1043685291,Metro Heart and Vascular Institute,NY,2025-02,Outpatient,1,3966.61,1860.24,372.05,1488.19,0.3752,54.0
+1043685291,Metro Heart and Vascular Institute,NY,2025-04,Outpatient,1,2210.1,1481.74,296.35,1185.39,0.5364,19.0
+1043685291,Metro Heart and Vascular Institute,NY,2025-05,Inpatient,1,23199.92,9379.53,1676.0,7703.53,0.332,24.0
+1043685291,Metro Heart and Vascular Institute,NY,2025-06,Inpatient,1,40078.29,29425.8,1676.0,27749.8,0.6924,49.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-01,Outpatient,1,927.98,597.32,300.9,296.42,0.3194,19.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-02,Other,2,8870.75,5258.67,1365.19,3893.48,0.4389,45.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-03,Inpatient,1,9448.26,6503.93,1676.0,4827.93,0.511,35.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-03,Other,1,6899.02,3481.64,0.0,3481.64,0.5047,42.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-04,Inpatient,1,44729.61,18636.95,0.0,18636.95,0.4167,25.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-04,Outpatient,1,2854.85,1211.65,242.33,969.32,0.3395,60.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-05,Other,1,3756.15,1834.54,572.51,1262.03,0.336,23.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-06,Other,1,3055.05,1443.81,425.38,1018.43,0.3334,7.0
+1154927306,Pine Ridge Rural Health Center,ME,2025-06,Outpatient,1,1488.15,898.88,179.78,719.1,0.4832,26.0
+1265803947,Riverside Skilled Nursing Facility,CT,2025-01,Other,1,4125.5,1504.96,0.0,1504.96,0.3648,32.0
+1265803947,Riverside Skilled Nursing Facility,CT,2025-03,Inpatient,1,16822.26,6767.7,1676.0,5091.7,0.3027,22.0
+1265803947,Riverside Skilled Nursing Facility,CT,2025-04,Other,1,1945.87,1153.25,436.25,717.0,0.3685,4.0
+1265803947,Riverside Skilled Nursing Facility,CT,2025-05,Other,1,2719.12,1335.43,267.09,1068.34,0.3929,25.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-01,Outpatient,1,2643.45,1586.09,317.22,1268.87,0.48,7.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-02,Outpatient,2,4573.39,3019.29,851.42,2167.87,0.474,25.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-03,Other,1,4465.18,2331.91,0.0,2331.91,0.5222,26.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-03,Outpatient,1,2028.91,1087.19,217.44,869.75,0.4287,57.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-06,Inpatient,1,34226.86,18860.0,1676.0,17184.0,0.5021,28.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-06,Other,2,17168.93,9405.74,0.0,9405.74,0.5478,197.0
+1376029485,Evergreen Hospice and Palliative Care,WI,2025-06,Outpatient,1,1375.07,765.84,153.17,612.67,0.4456,18.0
+1487362019,Bay Colony Health System,MA,2025-01,Other,1,3540.8,2144.97,0.0,2144.97,0.6058,26.0
+1487362019,Bay Colony Health System,MA,2025-02,Other,1,1534.78,682.51,342.1,340.41,0.2218,21.0
+1487362019,Bay Colony Health System,MA,2025-03,Other,1,8993.41,3835.16,0.0,3835.16,0.4264,56.0
+1487362019,Bay Colony Health System,MA,2025-04,Inpatient,1,24089.43,11872.18,1676.0,10196.18,0.4233,359.0
+1487362019,Bay Colony Health System,MA,2025-04,Outpatient,1,1360.08,917.51,226.45,691.06,0.5081,32.0
+1487362019,Bay Colony Health System,MA,2025-05,Other,1,3712.86,1879.38,489.49,1389.89,0.3743,55.0
+1487362019,Bay Colony Health System,MA,2025-06,Outpatient,3,6978.52,4178.52,1332.73,2845.79,0.4078,24.7
+1598203746,North Star Outpatient Clinic,MN,2025-01,Outpatient,1,3148.52,1254.83,250.97,1003.86,0.3188,30.0
+1598203746,North Star Outpatient Clinic,MN,2025-02,Inpatient,2,70814.85,37080.62,1676.0,35404.62,0.5,22.5
+1598203746,North Star Outpatient Clinic,MN,2025-03,Other,1,6012.04,2594.85,0.0,2594.85,0.4316,29.0
+1598203746,North Star Outpatient Clinic,MN,2025-03,Outpatient,1,2618.37,1168.97,233.79,935.18,0.3572,13.0
+1598203746,North Star Outpatient Clinic,MN,2025-05,Inpatient,1,36127.69,26729.5,1676.0,25053.5,0.6935,49.0
+1598203746,North Star Outpatient Clinic,MN,2025-05,Outpatient,1,3568.12,1680.01,410.51,1269.5,0.3558,32.0
+1710359824,Twin Lakes Community Hospital,MN,2025-01,Other,2,14288.65,7933.86,0.0,7933.86,0.5553,29.5
+1710359824,Twin Lakes Community Hospital,MN,2025-03,Inpatient,1,29382.99,12313.31,0.0,12313.31,0.4191,22.0
+1710359824,Twin Lakes Community Hospital,MN,2025-03,Other,1,7851.74,4764.14,0.0,4764.14,0.6068,18.0
+1710359824,Twin Lakes Community Hospital,MN,2025-04,Outpatient,1,4372.27,2611.31,727.86,1883.45,0.4308,46.0
+1710359824,Twin Lakes Community Hospital,MN,2025-05,Inpatient,1,16313.92,12164.46,0.0,12164.46,0.7456,38.0
+1760394825,Granite State Surgical Hospital,NH,2025-04,Outpatient,1,949.0,477.48,95.5,381.98,0.4025,40.0
+1760394825,Granite State Surgical Hospital,NH,2025-05,Inpatient,1,32717.78,18701.76,1676.0,17025.76,0.5204,35.0
+1760394825,Granite State Surgical Hospital,NH,2025-05,Outpatient,1,2582.41,1272.58,460.12,812.46,0.3146,24.0
+1760394825,Granite State Surgical Hospital,NH,2025-06,Inpatient,1,22093.46,10046.13,1676.0,8370.13,0.3789,38.0
+1821746093,Coastal Rehabilitation Hospital,RI,2025-01,Outpatient,2,8547.43,5094.43,1018.88,4075.55,0.4768,33.0
+1821746093,Coastal Rehabilitation Hospital,RI,2025-04,Inpatient,1,24355.63,16256.86,0.0,16256.86,0.6675,30.0
+1821746093,Coastal Rehabilitation Hospital,RI,2025-04,Other,1,7556.41,5587.89,0.0,5587.89,0.7395,43.0
+1845023967,Lakeshore Community Medical Center,IL,2025-01,Inpatient,2,52023.05,37519.49,3352.0,34167.49,0.6568,32.0
+1845023967,Lakeshore Community Medical Center,IL,2025-01,Outpatient,1,627.02,421.02,84.2,336.82,0.5372,4.0
+1845023967,Lakeshore Community Medical Center,IL,2025-02,Outpatient,1,961.12,679.06,135.81,543.25,0.5652,29.0
+1845023967,Lakeshore Community Medical Center,IL,2025-03,Other,1,3084.89,1728.85,0.0,1728.85,0.5604,26.0
+1845023967,Lakeshore Community Medical Center,IL,2025-03,Outpatient,2,6164.34,2523.88,814.53,1709.35,0.2773,40.0
+1845023967,Lakeshore Community Medical Center,IL,2025-04,Outpatient,1,1057.1,726.24,145.25,580.99,0.5496,4.0
+1845023967,Lakeshore Community Medical Center,IL,2025-05,Inpatient,2,67278.3,31644.45,3352.0,28292.45,0.4205,36.5
+1845023967,Lakeshore Community Medical Center,IL,2025-05,Other,2,13262.41,7500.43,0.0,7500.43,0.5655,36.5
+1845023967,Lakeshore Community Medical Center,IL,2025-05,Outpatient,2,6311.89,2768.22,759.25,2008.97,0.3183,48.5
+1845023967,Lakeshore Community Medical Center,IL,2025-06,Outpatient,1,535.92,352.16,70.43,281.73,0.5257,53.0
+1932087465,Prairie View Medical Center,IL,2025-01,Inpatient,1,33939.86,12351.38,1676.0,10675.38,0.3145,55.0
+1932087465,Prairie View Medical Center,IL,2025-02,Outpatient,2,6881.44,4745.3,1319.81,3425.49,0.4978,35.0
+1932087465,Prairie View Medical Center,IL,2025-04,Inpatient,1,11379.09,7685.48,1676.0,6009.48,0.5281,41.0
+1932087465,Prairie View Medical Center,IL,2025-04,Outpatient,2,4013.23,1855.88,472.3,1383.58,0.3448,30.5
+1932087465,Prairie View Medical Center,IL,2025-06,Inpatient,1,11595.07,6909.97,0.0,6909.97,0.5959,56.0
+1932087465,Prairie View Medical Center,IL,2025-06,Other,1,4662.14,3491.5,903.9,2587.6,0.555,4.0
+1932087465,Prairie View Medical Center,IL,2025-06,Outpatient,3,5894.0,3168.0,771.07,2396.93,0.4067,37.3
+1932456781,Hudson Valley Regional Hospital,NY,2025-03,Outpatient,1,2122.68,1164.25,438.45,725.8,0.3419,17.0
+1932456781,Hudson Valley Regional Hospital,NY,2025-06,Outpatient,2,6902.84,3846.5,1180.5,2666.0,0.3862,193.0

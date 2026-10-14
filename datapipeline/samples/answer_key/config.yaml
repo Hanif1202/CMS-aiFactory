@@ -1,0 +1,20 @@
+# Reference pipeline configuration (ANSWER KEY)
+source_db: ../agent_inputs/new_system/new.db
+output_db: reference_output.db
+output_dir: expected_output
+
+rules:
+  timely_filing_days: 365          # claim is LATE when days_to_receive > this value
+  amount_decimals: 2
+  rate_decimals: 4
+  avg_days_decimals: 1
+
+claim_category_map:                # (facility_type_code, bill_classification_code) -> category
+  "1-1": Inpatient
+  "1-3": Outpatient
+default_claim_category: Other
+
+exception_priority:                # first matching reason wins
+  - MISSING_RECEIVED_DATE
+  - NOT_PAYABLE
+  - LATE_FILING
